@@ -59,11 +59,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/joemendozateam
-  linkedin_url: https://www.linkedin.com/in/katcamrealestate
-  gplus_url: https://plus.google.com/113374607665557983447
-  youtube_url: https://www.youtube.com/user/JoeREBroker/featured
-  twitter_url: https://twitter.com/joerebroker
+  facebook_url:
+  linkedin_url:
+  gplus_url:
+  youtube_url:
+  twitter_url:
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -89,7 +89,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#c41230'
+  brand_color: '#636825'
   theme_color: '#231f20'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
