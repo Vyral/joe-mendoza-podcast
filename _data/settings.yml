@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: The Real Estate Raw Show
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,47 +7,49 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Joe Mendoza
   title:
-  license_number:
+  license_number: CA BRE 01234540
   about_markdown: |
+    Joe Mendoza has been involved in real estate for over 20 years. He has been a Real Estate Broker, Investor, Consultant, Advisor, Mentor, Managing Partner, Acquisitions Manager, and a Nationwide Coach. At present, he is President of the Joe Mendoza Team, Inc. San Diego, California. Mr. Mendoza also is an Executive Real Estate and Business Coach for Tom Ferry Your Coach, based in Newport Beach, CA.
 
-  market:
-  brand:
+    Mr. Mendoza has a long track record of success. While at Prudential California Realty, he ranked as high as the Top 1% in the nation and was number 7 in all of San Diego County. He built a team of 2 full-time employees and 5 licensed associate agents.
+  market: San Diego
+  brand: Katcam Real Estate
   brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+  address: 100 E. San Marcos Boulevard, Suite 400<br>San Marcos, CA 92069
+  phone: 877-794-5227
+  phone_type: Toll-Free 24/7
+  phone2: 619-246-4663
+  phone2_type: Direct
+  email: joe@joemendoza.com
+  url: http://JoeMendozaTeam.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://joemendoza.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.homesnap.com/Joe-Mendoza
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://joemendoza.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.homesnap.com/Joe-Mendoza
 
 lender:
-  show_section: false
-  header_text: Preferred Lender
+  show_section: true
+  header_text: Sponsored by
   headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
+  logo_path: /img/logo1.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
@@ -57,20 +59,20 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/joemendozateam
+  linkedin_url: https://www.linkedin.com/in/katcamrealestate
+  gplus_url: https://plus.google.com/113374607665557983447
+  youtube_url: https://www.youtube.com/user/JoeREBroker/featured
+  twitter_url: https://twitter.com/joerebroker
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/san-diego-real-estate-podcast-with-joe-mendoza/id1072155610?mt=2
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: The Real Estate Raw Show with Joe Mendoza
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
@@ -82,13 +84,13 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: The Real Estate Raw Show with Joe Mendoza
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#c41230'
+  theme_color: '#231f20'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -100,7 +102,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
