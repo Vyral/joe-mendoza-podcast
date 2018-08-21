@@ -4,6 +4,8 @@
 	border-radius: 9px 9px 0 0
 	@include shadow
 	margin-left: 100px
+	background-color: #fff
+
 
 .post-container
 	padding-right: 20px
@@ -44,7 +46,10 @@
 	margin: 0 auto
 	width: 75%
 
-
+.excerpt
+	background-color: #2B6CA4
+	p
+		color: #fff
 
 .post-image-container
 	padding: 0
@@ -62,6 +67,7 @@
 .content-container
 	border: 1px solid #cfcfcf
 	margin: 20px auto
+	background-color: #fff
 	hr
 		margin-top: 0
 		margin-bottom: 0
@@ -70,9 +76,9 @@
 	display: block
 
 .readlink>a
-	background: $brand
-	color: $light-text
-	border: 1px solid $brand
+	background: #B7CCDF
+	color: $theme
+	border: 1px solid #B7CCDF
 	border-radius: $button-radius
 	padding: 10px 20px
 	margin-top: 20px
@@ -81,10 +87,10 @@
 	+transition
 	&:hover
 		background: #fff
-		color: $brand
-		border: 1px solid $brand
+		color: #2B6CA4
+		border: 1px solid #2B6CA4
 	&:active
-		box-shadow: 0 0 0 $brand
+		box-shadow: 0 0 0 #2B6CA4
 		@include transform(translateY(0rem))
 
 

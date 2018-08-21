@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Joe+Mendoza/2018/San+Diego+Re
 pullquote: I’M SUPER EXCITED TO SHARE THE SECOND HALF OF THIS INTERVIEW WITH YOU.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How Mitch Stephen Became a Mega-Successful Investor, Part II

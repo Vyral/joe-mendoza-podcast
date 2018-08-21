@@ -1075,7 +1075,7 @@ html[xmlns] .flexslider .slides {
   background: rgba(0, 0, 0, 0.7); }
 
 .flex-control-paging li a.flex-active {
-  background: rgba(63, 66, 24, 0.9);
+  background: rgba(43, 108, 164, 0.9);
   cursor: default; }
 
 .flex-control-thumbs {
@@ -1179,7 +1179,8 @@ html[xmlns] .flexslider .slides {
 .lender {
   border: 1px solid #cfcfcf;
   margin-bottom: 20px;
-  margin-top: 20px; }
+  margin-top: 20px;
+  background-color: #fff; }
   .lender h5 {
     margin-left: 10px; }
   .lender hr {
@@ -1216,7 +1217,8 @@ html[xmlns] .flexslider .slides {
   flex-wrap: wrap;
   margin-bottom: 20px;
   margin-top: 20px;
-  overflow: hidden; }
+  overflow: hidden;
+  background-color: #fff; }
   .cta-sidebar-container .cta-img-container a img {
     max-width: 100%;
     width: 1000px; }
@@ -1251,6 +1253,15 @@ html[xmlns] .flexslider .slides {
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
+.side-headshot {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border: 3px solid #636825;
+  overflow: hidden;
+  display: block;
+  margin: 0 auto; }
+
 .jp-audio {
   border: 0;
   color: #636825;
@@ -1260,7 +1271,7 @@ html[xmlns] .flexslider .slides {
   margin: 0;
   padding: 0;
   position: relative;
-  -webkit-tap-highlight-color: #abb340;
+  -webkit-tap-highlight-color: #2B6CA4;
   text-align: left;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -1296,7 +1307,7 @@ html[xmlns] .flexslider .slides {
       width: 100%;
       transition: all 0.15s ease-out 0s; }
       .jp-audio .jp-controls a:hover {
-        color: #abb340; }
+        color: #2B6CA4; }
   .jp-audio .jp-progress {
     background-color: #fff;
     height: 10px;
@@ -1305,7 +1316,7 @@ html[xmlns] .flexslider .slides {
       cursor: pointer;
       height: 100%; }
     .jp-audio .jp-progress .jp-play-bar {
-      background-color: #abb340;
+      background-color: #2B6CA4;
       height: 100%;
       width: 0; }
   .jp-audio .timekeeper {
@@ -1350,7 +1361,7 @@ html[xmlns] .flexslider .slides {
   font-weight: 300; }
   .navbar-left > li > a:hover {
     background: #eeeeee;
-    color: #3f4218; }
+    color: #2B6CA4; }
   .navbar-left > li > a:active {
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem);
@@ -1368,7 +1379,7 @@ html[xmlns] .flexslider .slides {
   font-weight: 300; }
   .cta:hover {
     background: #eeeeee;
-    color: #3f4218; }
+    color: #2B6CA4; }
   .cta:active {
     text-decoration: none;
     color: #636825; }
@@ -1443,7 +1454,8 @@ html[xmlns] .flexslider .slides {
   border-radius: 0px;
   width: 100%;
   margin-bottom: 20px;
-  margin-top: 20px; }
+  margin-top: 20px;
+  background-color: #fff; }
   .library-container h5 {
     margin-left: 10px; }
   .library-container hr {
@@ -1486,6 +1498,9 @@ label.tree-toggle {
   padding-bottom: 4rem;
   padding-top: 1rem;
   margin-bottom: 0; }
+
+.header-headshot {
+  max-width: 30rem; }
 
 @media (max-width: 1100px) {
   .site-title {
@@ -1629,7 +1644,7 @@ body {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   color: #353535;
   margin: 0;
-  background: #ffffff;
+  background: #B7CCDF;
   -webkit-animation: 1s ease-in-out fadein;
           animation: 1s ease-in-out fadein; }
 
@@ -1672,7 +1687,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: none;
-    color: #abb340; }
+    color: #2B6CA4; }
   a:visited {
     text-decoration: none; }
 
@@ -1683,7 +1698,7 @@ a {
   border: 1px solid #636825;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
-    background: #abb340;
+    background: #2B6CA4;
     border: 1px solid #636825;
     color: white; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
@@ -1701,8 +1716,8 @@ a {
   border-color: #636825;
   color: #636825; }
   .button-ghost.brand:hover {
-    border-color: #abb340;
-    color: #abb340; }
+    border-color: #2B6CA4;
+    color: #2B6CA4; }
 
 table tr, table td {
   border-bottom: 1px solid gray;
@@ -1737,13 +1752,13 @@ table tr, table td {
   font-weight: 300;
   display: inline-table;
   width: 100%;
-  color: #dadada; }
+  color: #231f20; }
   .paginator-links svg {
     fill: #636825;
     height: 2rem;
     width: 2rem; }
   .paginator-links .disabled {
-    fill: #dadada; }
+    fill: #231f20; }
 
 /* Text components */
 .paginator-links .start-ellipsis::before,
@@ -1790,7 +1805,8 @@ table tr, table td {
   bottom: 5.5rem;
   border-radius: 9px 9px 0 0;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  margin-left: 100px; }
+  margin-left: 100px;
+  background-color: #fff; }
 
 .post-container {
   padding-right: 20px; }
@@ -1831,6 +1847,11 @@ table tr, table td {
   margin: 0 auto;
   width: 75%; }
 
+.excerpt {
+  background-color: #2B6CA4; }
+  .excerpt p {
+    color: #fff; }
+
 .post-image-container {
   padding: 0; }
 
@@ -1846,7 +1867,8 @@ table tr, table td {
 
 .content-container {
   border: 1px solid #cfcfcf;
-  margin: 20px auto; }
+  margin: 20px auto;
+  background-color: #fff; }
   .content-container hr {
     margin-top: 0;
     margin-bottom: 0; }
@@ -1856,9 +1878,9 @@ table tr, table td {
   display: block; }
 
 .readlink > a {
-  background: #636825;
-  color: white;
-  border: 1px solid #636825;
+  background: #B7CCDF;
+  color: #231f20;
+  border: 1px solid #B7CCDF;
   border-radius: 0px;
   padding: 10px 20px;
   margin-top: 20px;
@@ -1867,10 +1889,10 @@ table tr, table td {
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
     background: #fff;
-    color: #636825;
-    border: 1px solid #636825; }
+    color: #2B6CA4;
+    border: 1px solid #2B6CA4; }
   .readlink > a:active {
-    box-shadow: 0 0 0 #636825;
+    box-shadow: 0 0 0 #2B6CA4;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -1964,7 +1986,7 @@ table tr, table td {
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #abb340; }
+      color: #2B6CA4; }
 
 .post-share {
   text-align: center;
@@ -2091,16 +2113,16 @@ table tr, table td {
     border-radius: 50%;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #abb340;
+      fill: #2B6CA4;
       background: transparent;
-      color: #abb340;
+      color: #2B6CA4;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
-      box-shadow: 0 0 0 #abb340;
+      box-shadow: 0 0 0 #2B6CA4;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2113,7 +2135,7 @@ table tr, table td {
     width: 5rem;
     fill: #636825; }
     .about .socials svg:hover {
-      fill: #abb340; }
+      fill: #2B6CA4; }
 
 .footer-socials .socials {
   text-align: center;
@@ -2129,7 +2151,7 @@ table tr, table td {
     fill: #636825;
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
-      fill: #abb340;
+      fill: #2B6CA4;
       background: transparent; }
 
 @media (max-width: 1450px) {
@@ -2215,7 +2237,7 @@ table tr, table td {
     font-size: 18px;
     border: 1px solid #c7c7c7;
     border-radius: 0px;
-    background: rgba(255, 255, 255, 0.1);
+    background: #fff;
     color: #636825;
     font-size: 2rem;
     padding: 2.4rem;
@@ -2362,7 +2384,7 @@ table tr, table td {
   top: 0.5rem;
   margin-right: 0.1rem; }
   .vyral-logo:hover {
-    fill: #abb340; }
+    fill: #2B6CA4; }
 
 .footer-pad {
   padding-top: 20px; }
@@ -2444,7 +2466,7 @@ table tr, table td {
     cursor: pointer;
     transition: all 0.15s ease-out 0s; }
     .testimonial-navigation a:hover {
-      color: #bfc660; }
+      color: #3786cb; }
   .testimonial-navigation h3 {
     padding: 0 10px;
     text-align: center; }
@@ -2496,7 +2518,7 @@ form select {
     padding: 1rem;
     border: 3px solid #636825; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #abb340; }
+      border: 3px solid #2B6CA4; }
 
 .contact-form {
   width: 75%;
@@ -2531,7 +2553,7 @@ form select {
   font-weight: 300; }
   .cta:hover {
     background: #eeeeee;
-    color: #3f4218; }
+    color: #2B6CA4; }
   .cta:active {
     text-decoration: none;
     color: #636825; }

@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Joe+Mendoza/San+Diego+Real+Es
 pullquote: DARRIN WORKS WITH SAN DIEGO PROPERTY OWNERS EVERY SINGLE DAY.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: A Great Conversation With an Amazing General Contractor

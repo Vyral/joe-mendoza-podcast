@@ -90,9 +90,11 @@ images:
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#636825'
+  brand_dark_color: '#2B6CA4'
+  brand_light_color: '#2B6CA4'
   theme_color: '#231f20'
   theme_text_color: '#5d9bd3'
-  main_body_color: '#ffffff'
+  main_body_color: '#B7CCDF'
   main_body_text_color: '#353535'
 
 navbar_colors:

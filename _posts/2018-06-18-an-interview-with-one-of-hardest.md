@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Joe+Mendoza/San+Diego+Real+Es
 pullquote: IF THERE’S A SOLUTION, AKSHAY IS GOING TO FIND IT.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: An Interview With One of the Hardest-Working Lenders Around
