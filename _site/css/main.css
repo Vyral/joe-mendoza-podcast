@@ -2610,8 +2610,8 @@ form select {
 
 .sponsor {
   border: 1px solid #cfcfcf;
-  margin-bottom: 20px;
-  margin-top: 20px;
+  margin: 20px auto;
+  width: 75%;
   background-color: #fff; }
   .sponsor h5 {
     margin-left: 10px; }
@@ -2619,7 +2619,7 @@ form select {
     margin-top: 0;
     margin-bottom: 10px; }
   .sponsor .sponsor-logo img {
-    width: 90%;
+    width: 60%;
     display: block;
     margin: 1rem auto; }
 

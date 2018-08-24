@@ -49,11 +49,17 @@ sponsor:
   header_text: 'Sponsored by:'
   headshot_path: http://fillmurray.com/200/200
   logo_path1: /img/sponsors/logo1.png
+  url_path1: http://www.katcamrealestate.com/
   logo_path2: /img/sponsors/logo2.png
+  url_path2: http://www.mccormicknationalholdings.com/
   logo_path3: /img/sponsors/logo3.png
+  url_path3: http://affiliates.patlive.com/joe-mendoza-team/
   logo_path4: /img/sponsors/logo4.png
+  url_path4: http://www.ezfundings.com/
   logo_path5: /img/sponsors/logo5.png
+  url_path5: https://www.colerealtyresource.com/landing/joemendoza/
   logo_path6: /img/sponsors/logo6.png
+  url_path6: https://mortgage.bankofamerica.com/83913
 
 
 socials:
