@@ -24,7 +24,7 @@ Today on the Real Estate Raw Show, we’re joined by an amazing special guest: C
 
 Cited below for your convenience are timestamps that will direct you to various points in the interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:
 
-00:51 - An introduction to Chris’ book: “The Million Dollar Real Estate Team.”
+0:51 - An introduction to Chris’ book: “The Million Dollar Real Estate Team.”
 
 1:25 - How Chris got to where he is today.
 
