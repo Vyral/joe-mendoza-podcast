@@ -3,11 +3,13 @@ layout: post
 title: Real Estate Raw Featuring Kim Lisa Taylor
 date: 2018-10-10 19:28:00
 tags:
+  - Real Estate
 excerpt: >-
   Kim Lisa Taylor is not only a successful Attorney, but she’s also as
   knowledgeable as it gets when it comes to real estate investments. Stay tuned
   for the latest episode of “Real Estate Raw.”
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+Mendoza/2018/San+Diego+Real+Estate-+Kim+Lisa+Taylor.mp4
 pullquote: Real estate investing isn’t something you can do alone.
 enclosure_type: video/mp4
 enclosure_time:
