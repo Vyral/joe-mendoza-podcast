@@ -9,13 +9,13 @@ excerpt: >-
   knowledgeable as it gets when it comes to real estate investments. Stay tuned
   for the latest episode of “Real Estate Raw.”
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Joe+Mendoza/2018/San+Diego+Real+Estate-+Kim+Lisa+Taylor.mp4
+  https://s3.amazonaws.com/vyralmarketing/Joe+Mendoza/2018/San+Diego+Real+Estate-+Kim+Lisa+Taylor+(1).mp4
 pullquote: Real estate investing isn’t something you can do alone.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: wC2HBsJl9fo
+youtube_code: AeEJT5H0bdA
 ---
 
 {% include youtube.html %}
