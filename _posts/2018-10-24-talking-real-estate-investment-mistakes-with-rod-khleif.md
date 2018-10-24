@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Talking Real Estate Investment Mistakes with Rod Khleif
-date: 2018-10-24 16:42:42
+date: 2018-10-24 16:42:00
 tags:
   - Real Estate
 excerpt: >-
-  n the latest episode of “Real Estate Raw,” I was joined by real estate
+  In the latest episode of “Real Estate Raw,” I was joined by real estate
   investment expert Rod Khleif. Rod has been a huge mentor to me, and I was
   excited to talk to him in-depth about how to have success as a real estate
   investor.
@@ -42,5 +42,3 @@ Welcome back to another exciting episode of “Real Estate Raw.” Today I have 
 31:30- Why analysis paralysis is a death sentence in this business.
 
 Thanks again to Rod for joining me. His knowledge and experience were invaluable to me in my career and I hope he can help you in your career as well. If you have any questions for Rod, feel free to reach out to him at his website or via his email, [info@RodKhleif.com](mailto:info@RodKhleif.com). If you have any other questions for me, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
