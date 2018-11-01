@@ -19,7 +19,7 @@ youtube_code: K-iruTIndnQ
 
 {% include youtube.html %}
 
-Welcome back to another episode of “Real Estate Raw.” Michael Blank is today’s guest, and he’s an absolute guru when it comes to real estate investing--specifically, investing in multi-family property.
+Welcome back to another episode of “Real Estate Raw.” Michael Blank is today’s guest, and he’s an absolute guru when it comes to real estate investing–specifically, investing in multi-family property.
 
 **In our discussion we cover a variety of important topics, so once again I’ve provided timestamps of the video above so you can jump ahead to the section(s) that interest you the most:**
 
@@ -57,7 +57,7 @@ Welcome back to another episode of “Real Estate Raw.” Michael Blank is today
 
 30:24—Concluding thoughts and the importance of taking action.
 
-I want to thank Michael for joining me. If you need to reach out to him, you can visit his website at [www.themichaelblank.com](www.themichaelblank.com){: target="_blank"}.
+I want to thank Michael for joining me. If you need to reach out to him, you can visit his website at [www.themichaelblank.com](http://www.themichaelblank.com){: target="_blank"}.
 
 As always, if you have any questions for me or there’s anything else I can help you with, feel free to give me a call or shoot me an email. I’d love to help you.
 
