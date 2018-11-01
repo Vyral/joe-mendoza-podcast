@@ -1,5 +1,89 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: Well I only have positive things to say about him. He was very professional and very helpful. And I was so very happy with his services. The whole experience was above and beyond. If I needed anything, he would immediately answer me back. That's important.
+    name: Maria
+    audio: /uploads/audio/maria.mp3
+
+  - quote: It was an awesome experience. My husband and I were very pleased working with him. He was very efficient in finding homes for us to look at. Every time I would text him any little question, it could have been late or a weekend, and he was very prompt in responding. He was basically on call at all times with us. If anybody is looking for a good agent I would definitely recommend Joe.
+    name: Sabrina
+    audio: /uploads/audio/sabrina.mp3
+
+  - quote: The results were great. We got our first home. It’s exactly what we wanted and in a great area. It’s something for me and my family, we can see ourselves grow in and it’s just what we needed so it’s perfect. We were looking to buy a house last year and when we reached out again he remembered our whole situation and he remembered the name of my daughter. He just makes you feel at peace and comfortable in a difficult situation. I think he’s a great guy and a great realtor and he’s going to continue his success.
+    name: Jonathan
+    audio: /uploads/audio/jonathan.mp3
+
+  - quote: Oh, I got great results. I met him on a Sunday morning and he said, “I bet I can have this house sold by Tuesday,” and he did. He’s very personable. He really listens to me. He’s a great guy doing a great job. He is definitely in the right profession. He is a wonderful people person. My whole experience with him was like that and if I write that he is awesome in an email or something he writes right back, “Thanks so much!
+    name: Jennifer
+    audio: /uploads/audio/jennifer.mp3
+
+  - quote: Working with Joe and the team was great.I was able to meet with him on Friday, we put the house up for sale and by Sunday night we had several showings and two offers. He and his team were really on it as far as letting me know what’s going on and I liked everything being online. It was a good thing for me. It was great to sign the docs online for the most part. He and his team overall were great. Everyone has different responsibilities for the transaction and I think overall the communication was great.
+    name: Luis
+    audio: /uploads/audio/luis.mp3
+
+  - quote: The results were exactly what my wife and I expected. He was very diligent and very thorough with explaining things that we were unaware of, but most importantly he was able to prioritize exactly what we wanted so the results were beyond what we expected. We needed an inspection and he was able to be at our place for the inspection for what I believe was a duration of three hours so that right there showed us that he was dedicated to making this experience complete and stress-free for us.
+    name: Myron
+    audio: /uploads/audio/myron.mp3
+
+  - quote: We had to sell our home due to a divorce agreement and we were looking for a real estate agent. I heard of Joe from some of our friends so he was one of the agents that we interviewed. Eventually, we had him deal with both, the sale of the house and also the purchase of the house I am currently in. I was really upfront with him at the time and I told him exactly what we needed and he was able to come through. I was expecting at least three months of being on the market and we were in fact on the market for about two weeks before we got the first offer. That was pretty good for us!
+    name: Jim
+    audio: /uploads/audio/jim.mp3
+
+  - quote: He is always upbeat and always positive. He is direct without being very direct, you know what I mean? He does not beat around the bush and he delivers his message very nicely. He’s been valuable for my mindset and his positive attitude has definitely rubbed off on me. He;s helped me to look at the positives even when I am going through something that is difficult and that has really helped me tackle my business no matter what’s going on. I am keeping focused, keeping positive, and getting the job done. I’ve already recommended him to several colleagues of mine and I tell them that I can’t imagine not having him as a coach for the rest of my career. I feel like we’re a team and he has helped my business tremendously. So, since I have been in coaching with him my business has grown.
+    name: Liz
+    audio: /uploads/audio/liz.mp3
+
+  - quote: I met Joe about 15 years ago. He was living in the same area as we were and I met him, he told me he was in the real estate business and he seemed like a very trusting individual. Well, we wanted to sell it (the house) quickly, so by the time I contacted him within two days we had the For Sale sign up. Offers started coming in, he listed very quickly. So, he moved very quickly. I would tell people he is very knowledgeable. He;s been in the business over 20 years, over 25 years I believe, but the main thing is he is very trustworthy. He’s always smiling and laughing so he’s a pleasure to be around as well.
+    name: Elliot
+    audio: /uploads/audio/elliot.mp3
+
+  - quote: Joe, would, one, actually listen when I had an issue or come up upon a situation that I haven’t had before in my short term experience as a realtor and he’s been a realtor for twenty years, plus. He listened, he understands, he also is a fantastic problem solver. He’s also very motivating. He always has words of encouragement and can guide you in the right way. Through his coaching, he has given me discipline with a schedule. He’s made me understand the value of offering an abundance of not only experience and information but customer care. I was previously focused on my education so I had a lot of knowledge about my area of expertise, but I didn’t know how to showcase that. So, Joe helped me find my path in marketing and how to network, and how to make phone calls, scripts, what to say, that way it showcased the value in the information that I was providing clients so that I can build that long term rapport. It’s not a one-on-one transaction. We are building relationships.
+    name: Margaret
+    audio: /uploads/audio/margaret.mp3
+
+  - quote: He went above and beyond in 2000. In 2000, one of his first home sales mine. I was one of his first clients and he actually sacrificed, maybe I shouldn’t say this, because he actually sacrificed some of his commission to ensure that I was happy. I had a termite infested pergola, like a backyard patio, and we didn’t catch it during the sale and inspection. And so I complained about it and he actually, to keep me happy as a client, he actually refunded me part of his commission. And at the time it was $500, I thought that was a lot of money at the time and I was one of his first clients. After that incident, I felt bad I took money out of him as one of his first clients, but he kept the customer happy and I alway refer people to him, I said there’s no other realtors I would go to beyond him. I tell them that he’s honest, fair, he’s smart and he has the experience in a difficult challenging industry and they’re getting one of the best when they hire him on.
+    name: Darrin
+    audio: /uploads/audio/darrin.mp3
+
+  - quote: I want to let you know that Joe Mendoza is such a wonderful agent. He is so pleasant and so knowledgeable. If you call him or text him or send him an email he will respond right away. He is such an asset to the real estate business.
+    name: Evelyn
+    audio: /uploads/audio/evelyn.mp3
+
+  - quote: He’s been a high school friend so he's been our go-to person whether we’re selling or buying and we’ve been through several of those. He’s always been my husband and I’s go-to person. We don’t look anywhere else, he’s our realtor. He is always there the moment I text or call him. The response time is amazing. I don’t have to wait five minutes and he’s calling me back. He’s always above and beyond. There’s never a time I’m waiting for him. Joe is very reliable and he will do anything and everything for his clients.
+    name: Marle
+    audio: /uploads/audio/marle.mp3
+
+  - quote: Well, what I like about Joe and his coaching is that first of all he has a whole lot of experience and he’s very knowledgeable, and he makes it very easy for you to learn from him. I do feel a lot of impact in the way I handle my daily routine and the way I take care of clients and such. I would recommend Joe Mendoza because first of all he’s very friendly. He knows exactly what he’s talking about and he also has very good advice on just about anything in the industry. He’s the person that you could ask anything and he’ll have the answer for you. I found Joe’s coaching valuable because he’s a very knowledgeable resource in all things real estate, and with any sort of questions I might have, he can easily answer all of them.
+    name: Sergio
+    audio: /uploads/audio/sergio.mp3
+
+  - quote: So, we were selling my home and at the same time we were looking for another home to move into. And he had to go through and put in a whole bunch of bids to different homes. Every time we’d email him and say ‘Hey, can you look at this?’ or ‘Can you look at this?’ he was just patient, all over it. Going through and putting in the bids, talking to us about what his recommendations were, what he thought, and then he just really went above and beyond with that whole experience. He made it like a very seamless experience for us. He’s very down-to-earth, great work ethic, and he puts the customer first.
+    name: Jeanette
+    audio: /uploads/audio/jeanette.mp3
+
+  - quote: He helped sell one of our homes and was able to sell it quickly, and we’re very happy with that result. He’s a pleasure to work with and he has been in the business for quite a long time, so he knows the ins and outs.
+    name: Mei
+    audio: /uploads/audio/mei.mp3
+
+  - quote: My experience working with Joe was that he was very professional. Good customer service, no complaints. That’s about it.
+    name: Terry
+    audio: /uploads/audio/terry.mp3
+
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/.mp3
+  #
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/.mp3
+  #
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/.mp3
+  #
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/.mp3
+  #
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/.mp3

@@ -47,7 +47,6 @@ second_sidebar_CTA:
 
 sponsor:
   header_text: 'Sponsored by:'
-  headshot_path: http://fillmurray.com/200/200
   logo_path1: /img/sponsors/logo1.png
   url_path1: http://www.katcamrealestate.com/
   logo_path2: /img/sponsors/logo2.png
