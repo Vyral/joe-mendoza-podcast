@@ -41,7 +41,7 @@ On the latest episode of “Real Estate Raw,” I had the pleasure of being join
 
 22:10- Final thoughts from Tyler.
 
-Thanks again to Tyler for taking the time to join me on this episode. If you have any questions for Tyler in the meantime, feel free to give him a call at (800) 800-3271.
+Thanks again to Tyler for taking the time to join me on this episode. If you have any questions for Tyler in the meantime, feel free to give him a call at (800) 800-3271. **Be sure to mention I heard it through "Joe Mendoza" for VIP service and discounts! &nbsp;**
 
 If you have any other questions for me, don’t hesitate to reach out by giving me a call or sending me an email. I look forward to hearing from you soon!
 
