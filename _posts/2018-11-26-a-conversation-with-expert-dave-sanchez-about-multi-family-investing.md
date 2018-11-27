@@ -19,7 +19,7 @@ youtube_code: 2-hUw_tT3iM
 
 {% include youtube.html %}
 
-During my most recent episode of the Real Estate Raw Show, I brought on an incredibly special guest: Dave Sanchez, an investor who has accumulated more than 800 units. I only met Dave recently, but I knew shortly after having been introduced to him that I wanted to bring him on for a conversation about his success and about investing in general.
+During my most recent episode of the Real Estate Raw Show, I brought on another very special guest: Dave Sanchez, an investor who has accumulated more than 800 units. I only met Dave recently, but I knew shortly after having been introduced to him that I wanted to bring him on for a conversation about his success and about investing in general.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
