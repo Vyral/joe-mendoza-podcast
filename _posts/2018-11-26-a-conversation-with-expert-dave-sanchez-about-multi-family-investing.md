@@ -25,7 +25,7 @@ During my most recent episode of the Real Estate Raw Show, I brought on another 
 
 1:09 - Dave tells the story of how he got to where he is today.
 
-7:21 - Explaining a few differences between multi-unit and single-family investment properties
+7:21 - Explaining a few differences between multi-unit and single-family investment properties.
 
 8:31 - Dave explains where he likes to invest and why.
 
