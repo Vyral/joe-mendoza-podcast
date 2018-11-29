@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Conversation With Expert Dave Sanchez About Multi-Family Investing
-date: 2018-11-26 17:13:46
+title: Dave Sanchez talks about Value Add Plays
+date: 2018-11-26 17:13:00
 tags:
   - Real Estate
 excerpt: >-
