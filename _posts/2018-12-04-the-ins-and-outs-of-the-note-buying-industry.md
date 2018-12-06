@@ -25,7 +25,7 @@ I’ve known Scott for a few years, and he’s a stand-up guy doing great busine
 
 **For your convenience, I’ve provided timestamps below so that you can navigate the conversation Scott and I had at your leisure:**
 
-1:25—The sudden and drastic downturn of the market in 2008 that caused Scott to leave the mortgage industry to turn to buying distressed debt.
+1:25—The sudden and drastic downturn of the market in 2008 that caused Scott to leave the mortgage industry to turn to buying distressed debt
 
 2:10—What exactly does it mean to buy notes?
 
@@ -47,7 +47,7 @@ I’ve known Scott for a few years, and he’s a stand-up guy doing great busine
 
 28:30—The market is shifting; inventory is staying on longer and prices are coming down. What impact does that have in this business?
 
-32:00—Scott’s preferences among asset class, storage, apartments, shopping centers, single-family homes.
+32:00—Scott’s preferences among asset class, storage, apartments, shopping centers, single-family homes
 
 34:25—Is negotiating with the banks difficult?
 
