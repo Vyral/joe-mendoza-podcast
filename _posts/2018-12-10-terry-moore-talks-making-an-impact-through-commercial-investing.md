@@ -20,13 +20,11 @@ youtube_code: GH62HZg_JxE
 
 {% include youtube.html %}
 
-<br>
-
 Welcome back to another edition of the Real Estate Raw Show. This time, our special guest happens to be expert commercial broker Terry Moore—who has done over 400 transactions and is a CCIM (Certified Commercial Investment Member), which is one of the most elite designations available in the real estate industry.
 
-0:30 - An introduction to Terry Moore<br>&nbsp;
+0:30 - An introduction to Terry Moore
 
-0:55 - Terry explains his and and his team’s calling<br>&nbsp;
+0:55 - Terry explains his and and his team’s calling
 
 1:25 - Terry’s perspective on our current market from a commercial investing perspective
 
