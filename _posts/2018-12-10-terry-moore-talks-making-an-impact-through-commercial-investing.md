@@ -20,17 +20,17 @@ youtube_code: GH62HZg_JxE
 
 {% include youtube.html %}
 
-Welcome back to another edition of the Real Estate Raw Show. This time, our special guest happens to be expert commercial broker Terry Moore—who has done over 400 transactions and is a CCIM (Certified Commercial Investment Member), which is one of the most elite designations available in the real estate industry.
+Welcome back to another edition of the Real Estate Raw Show. This time, our special guest happens to be expert commercial broker Terry Moore—who has done over 400 transactions and is a CCIM (Certified Commercial Investment Member), which is one of the most elite designations available in the real estate industry.&nbsp;**As always, I've included timestamps below so that you can navigate the discussion at your leisure:**
 
 0:30 - An introduction to Terry Moore
 
-0:55 - Terry explains his and and his team’s calling
+0:55 - Terry explains his and his team’s calling
 
 1:25 - Terry’s perspective on our current market from a commercial investing perspective
 
 3:50 - Touching on the shortage of commercial properties in San Diego County
 
-7:05 - Terry gauges the window of opportunity for commercial investing in San Diego County
+7:05 - Terry gauges the window of opportunity for commercial investment in San Diego County
 
 8:25 - How much new investors should plan to spend (and earn) per unit
 
@@ -53,5 +53,3 @@ Welcome back to another edition of the Real Estate Raw Show. This time, our spec
 32:24 - How to contact Terry Moore
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. We look forward to hearing from you soon.
-
-&nbsp;
