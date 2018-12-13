@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Terry Moore Talks Making an Impact Through Commercial Investing
-date: 2018-12-10 19:51:01
+title: Making an Impact Through Commercial Investing
+date: 2018-12-10 19:51:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,7 +20,7 @@ youtube_code: GH62HZg_JxE
 
 {% include youtube.html %}
 
-Welcome back to another edition of the Real Estate Raw Show. This time, our special guest happens to be expert commercial broker Terry Moore—who has done over 400 transactions and is a CCIM (Certified Commercial Investment Member), which is one of the most elite designations available in the real estate industry.&nbsp;**As always, I've included timestamps below so that you can navigate the discussion at your leisure:**
+Welcome back to another edition of the Real Estate Raw Show. This time, our special guest happens to be expert commercial broker Terry Moore—who has done over 400 transactions and is a CCIM (Certified Commercial Investment Member), which is one of the most elite designations available in the real estate industry. **As always, I've included timestamps below so that you can navigate the discussion at your leisure:**
 
 0:30 - An introduction to Terry Moore
 
