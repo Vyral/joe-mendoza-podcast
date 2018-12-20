@@ -20,13 +20,13 @@ youtube_code: q3IouwKT5Q0
 
 {% include youtube.html %}
 
-Welcome back to the Real Estate Raw Show! On this very special episode, we’re joined by Fund&Grow COO Mike Banks. Fund&Grow is a corporation specializing financial and strategic advisory services, and Michael has sat down with us for an interview today to discuss the benefits of working with his company.
+Welcome back to the Real Estate Raw Show! On this very special episode, we’re joined by Fund&Grow COO Mike Banks. Fund&Grow is a corporation specializing in financial and strategic advisory services, and Michael has sat down with us for an interview today to discuss the benefits of working with his company.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
 0:52 - How (and why) Fund&Grow helps people obtain zero-interest business credit lines
 
-2:51 - What kind of qualifications does a person need to apply for funding through Fund&Grow
+2:51 - What kind of qualifications does a person need to apply for funding through Fund&Grow?
 
 6:18 - The benefit of working through Fund&Grow as opposed to seeking funding on your own
 
