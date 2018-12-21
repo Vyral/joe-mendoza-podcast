@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How and Why People Seek Funding Through Fund&Grow
-date: 2018-12-18 21:22:22
+title: 'What Will YOU DO with $50,000 to $250,000 in Cash Credit?'
+date: 2018-12-18 21:22:00
 tags:
   - Real Estate
 excerpt: >-
@@ -51,5 +51,9 @@ Welcome back to the Real Estate Raw Show! On this very special episode, we’re 
 29:27 - What to do if you’re ready to get started with Fund&Grow or if you would like more information
 
 31:04 - Are there limits to how you can use money from Fund&Grow?
+
+Want low interest funding for your Business or Real Estate Deals? Click the [Fund&Grow link ](https://www.fundandgrow.com/prequalification?t=p&amp;joemendoza){: target="_blank"}on the side of my blog!
+
+You can also learn more here:&nbsp;[http://qwikcash.org](http://qwikcash.org){: target="_blank"}
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
