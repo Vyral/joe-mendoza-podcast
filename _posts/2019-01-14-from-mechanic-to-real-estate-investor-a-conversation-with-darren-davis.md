@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 'From Mechanic to Real Estate Investor: A Conversation with Darren Davis'
-date: 2019-01-14 16:18:26
+date: 2019-01-14 16:18:00
 tags:
   - Real Estate
 excerpt: >-
   Today’s “Real Estate Raw Show” guest is one who has acquired several
   fix-and-flip homes—and we’re not talking a mere 10 or 20, but rather triple
   digits, here: Ladies and gentlemen, Mr. Darren Davis.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+Mendoza/2019/San+Diego+Real+Estate-+Darren+Davis.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
