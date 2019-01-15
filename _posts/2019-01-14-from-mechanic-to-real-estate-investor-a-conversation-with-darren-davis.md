@@ -44,7 +44,7 @@ Darren has been through quite the roller coaster during his career as an investo
 
 23:00—After over 200 fix-and-flips, what is Darren up to nowadays?
 
-24:17—Expecting the worst: forming a conservative plan with multiple exit-strategies so that, should chaos strike, you’ll still come out okay
+24:17—Expecting the worst: forming a conservative plan with multiple exit strategies so that, should chaos strike, you’ll still come out okay
 
 26:25—Of the 200 flips Darren has done, he’s only lost money on one of them
 
