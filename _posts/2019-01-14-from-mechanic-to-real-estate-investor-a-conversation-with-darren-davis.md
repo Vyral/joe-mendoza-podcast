@@ -22,7 +22,7 @@ youtube_code: gKnWE16JCTg
 
 I’m so excited to have Darren Davis with me on the “Real Estate Raw Show” today. He’s an instructor who loves to give back to his community of Renatus, which actually isn’t too far away from my own neighborhood.
 
-Darren has been through quite the roller coaster during his career as an investor, and he doesn’t expect that to change any time soon. His philosophy is that if he can help a client get over the next hump on the way to their goals, more power to them. Through his work, he feels as though he’s done something good for the world. He joins me today to talk about the trajectory of his career and along the way, he’ll provide fantastic insight that anyone watching will be sure to find valuable.
+Darren has been through quite the roller coaster during his career as an investor, and he doesn’t expect that to change anytime soon. His philosophy is that if he can help a client get over the next hump on the way to their goals, more power to them. Through his work, he feels as though he’s done something good for the world. He joins me today to talk about the trajectory of his career and along the way, he’ll provide fantastic insight that anyone watching will be sure to find valuable.
 
 **For your convenience, I’ve provided timestamps below so that you can navigate the conversation we had at your leisure:**
 
