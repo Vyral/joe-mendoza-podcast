@@ -33,7 +33,7 @@ Welcome back to the Real Estate Raw Show! On this incredible episode, we had the
 
 9:11 - What kind of properties is Adam buying?
 
-11:11 - What is the “sweet spot” price for a 150-unit property?
+11:11 - What is the “sweet spot” price for an 150-unit property?
 
 15:26 - &nbsp;Adam explains his future goals
 
