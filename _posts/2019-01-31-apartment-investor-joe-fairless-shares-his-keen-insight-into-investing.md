@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apartment Investor Joe Fairless Shares His Keen Insight into Investing
-date: 2019-01-31 17:06:08
+date: 2019-01-31 17:06:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,12 +15,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: pjiqLS2JQYw
+youtube_code: '-MfZeyJwVHs'
 ---
 
 {% include youtube.html %}
 
-Welcome back to another edition of the “Real Estate Raw Show.” In our latest installment, we’re featuring a very special guest: apartment investor Joe Fairless. What makes Joe such a great source of inspiration and wisdom? Well, Joe is the author of several books, runs the longest daily aired podcast show ever, and has taken down countless investment properties. &nbsp;
+Welcome back to another edition of the “Real Estate Raw Show.” In our latest installment, we’re featuring a very special guest: apartment investor Joe Fairless. What makes Joe such a great source of inspiration and wisdom? Well, Joe is the author of several books, runs the longest daily aired podcast show ever, and has taken down countless investment properties.  
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
