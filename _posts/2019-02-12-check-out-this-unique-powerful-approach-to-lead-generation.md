@@ -37,6 +37,6 @@ This time, special guest and real estate expert Micah Munro has joined us to sha
 
 23:00 - Top-Tier Leads’ philosophy on helping Realtors attract more leads
 
-28:58 - How to get a discount when you sign up for Top-Tier Leads
+28:58 - How to get a discount when you sign up for Top-Tier Leads: [Mention Joe Mendoza for 20% off!](http://www.top-tierleads.com/joe/)
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
