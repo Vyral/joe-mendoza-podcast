@@ -55,6 +55,6 @@ When you control the listings, you control the market. This is a big takeaway fr
 
 22:23— Advice for those new to FSBOs and expired listings
 
-24:06— Conclusion to today’s video.
+24:06— Conclusion to today’s video
 
-I’d like to thank Ren for talking with us today on the Real Estate Raw Show. If you have any questions or need further information, feel free to reach out to me! Until then, keep on the lookout for the next episode of our show.
+I’d like to thank Ren for talking with us today on the "Real Estate Raw Show." If you have any questions or need further information, feel free to reach out to me! Until then, keep on the lookout for the next episode of our show.
