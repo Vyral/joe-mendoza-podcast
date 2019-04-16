@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Investing Superstar Dixie Decker Cracks the Code on Student Housing
-date: 2019-03-07 20:05:34
+date: 2019-03-07 20:05:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,18 +13,18 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kaE8EAyPLsE
+youtube_code: FmOElCaWgPk
 ---
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 Today’s incredible guest on "The Real Estate Raw Show" comes to us all the way from Springfield, Missouri. I’m talking about none other than superstar investor Dixie Decker.
 
 You’ve heard about fix-and-flip, multi-family, and single-family investment properties, but what about investing in student housing? This is exactly what Dixie specializes in, and the unique nature of her portfolio isn’t all that sets her apart—her skill and story are equally special, and I can’t wait to share more information with you today.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: **
 
 01:07 — An introduction to Dixie and her story
 
