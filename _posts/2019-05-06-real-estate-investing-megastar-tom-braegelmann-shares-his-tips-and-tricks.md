@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Real Estate Investing Megastar Tom Braegelmann Shares His Tips and Tricks
-date: 2019-05-06 15:46:53
+date: 2019-05-06 15:46:00
 tags:
   - Real Estate
 excerpt: >-
