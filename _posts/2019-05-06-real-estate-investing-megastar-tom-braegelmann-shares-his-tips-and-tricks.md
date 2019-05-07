@@ -20,7 +20,7 @@ youtube_code: TpPrBKg_e-g
 
 {% include youtube.html %}
 
-Today’s special guest on the Real Estate Raw Show is an absolute genius when it comes to raising capital and investing. Having raised and funded more than $200 million, it’s abundantly clear that this man has an incredible talent.&nbsp;
+Today’s special guest on "The Real Estate Raw Show" is an absolute genius when it comes to raising capital and investing. Having raised and funded more than $200 million, it’s abundantly clear that this man has an incredible talent.&nbsp;
 
 Without further adieu, let’s dive into some tips, tricks, and stories from the one and only Tom Braegelmann.&nbsp;
 
