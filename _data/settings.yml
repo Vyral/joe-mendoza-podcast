@@ -19,7 +19,7 @@ client:
   brokerage:
   address: 100 E. San Marcos Boulevard, Suite 400<br>San Marcos, CA 92069
   phone: 877-794-5227
-  phone_type: Toll-Free 24/7
+  phone_type: 'Toll-Free 24/7'
   phone2: 619-246-4663
   phone2_type: Direct
   email: joe@joemendoza.com
