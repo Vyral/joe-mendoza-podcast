@@ -48,8 +48,8 @@ second_sidebar_CTA:
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/008.jpg
     CTA_title3: "Free Lead Generating Funnels"
-    CTA_text3: "I Want More Targeted Real Estate Leads Online?"
-    CTA_link_text3: "Download"
+    CTA_text3: "Want More Targeted Real Estate Leads Online?"
+    CTA_link_text3: "Download Now"
     CTA_url3: https://www.homesnap.com/Joe-Mendoza    
 
 sponsor:
