@@ -14,15 +14,15 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 4A_RW4Z5_Dk
+youtube_code: du6_Dxa7-p4
 ---
 
 {% include youtube.html %}
 
-For the latest episode of “The Real Estate Raw Show,” I’m joined by Drew Burks to talk about how funnels can help you build your business. 
+For the latest episode of “The Real Estate Raw Show,” I’m joined by Drew Burks to talk about how funnels can help you build your business.&nbsp;
 
-**Once again, I’ve provided timestamps of our entire conversation so that you can skip ahead to the section(s) that interest you the most: **
+**Once again, I’ve provided timestamps of our entire conversation so that you can skip ahead to the section(s) that interest you the most:&nbsp;**
 
-0:27 - A quick rundown of Drew’s accolades<br>1:38 - What made Drew pursue internet marketing <br>4:25 - Why explore Infusionsoft and Clickfunnels?<br>6:57 - The benefit of automation in funnels<br>9:04 - The difference between funnels and traditional websites <br>11:44 - How Drew uses advertising<br>12:45 - A word from our sponsors <br>17:11 - How easy Clickfunnels is to use<br>20:17 - The most dependable and consistent way to generate wealth<br>22:36 - Building your funnel, controlling your asset, and converting it<br>23:28 - Clickfunnels is also a great way to keep track of the numbers<br>25:48 - A special offer for you that will help you attract buyer and seller leads<br>28:20 - Wrapping things up 
+0:27 - A quick rundown of Drew’s accolades<br>1:38 - What made Drew pursue internet marketing&nbsp;<br>4:25 - Why explore Infusionsoft and Clickfunnels?<br>6:57 - The benefit of automation in funnels<br>9:04 - The difference between funnels and traditional websites&nbsp;<br>11:44 - How Drew uses advertising<br>12:45 - A word from our sponsors&nbsp;<br>17:11 - How easy Clickfunnels is to use<br>20:17 - The most dependable and consistent way to generate wealth<br>22:36 - Building your funnel, controlling your asset, and converting it<br>23:28 - Clickfunnels is also a great way to keep track of the numbers<br>25:48 - A special offer for you that will help you attract buyer and seller leads<br>28:20 - Wrapping things up&nbsp;
 
-If you have any questions about this topic, don’t hesitate to reach out to me. I’d love to speak with you. <br>
+If you have any questions about this topic, don’t hesitate to reach out to me. I’d love to speak with you.&nbsp;
